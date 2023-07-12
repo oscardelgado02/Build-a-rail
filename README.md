@@ -1,5 +1,7 @@
 # Interactive-Systems
 
+Unity Project to use in the Mixed Reality environment from UPF Barcelona.
+
 Assets used in the proyect:
 
 - Industrial Train: https://assetstore.unity.com/packages/3d/vehicles/land/industrial-train-dr14-162567
