@@ -1,6 +1,6 @@
 # Interactive-Systems
 
-Unity Project to use in the Mixed Reality environment from UPF Barcelona.
+Unity Project that works in the Mixed Reality environment from UPF Barcelona.
 
 Assets used in the proyect:
 
