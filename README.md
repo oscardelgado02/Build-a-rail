@@ -1,4 +1,4 @@
-# Interactive-Systems
+# Build a rail
 
 Unity Project that works in the Mixed Reality environment from UPF Barcelona.
 
