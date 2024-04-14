@@ -3,7 +3,7 @@
 Build a rail is a full body interaction collaborative videogame which its main objective is removing all the obstacles from the path between the train and the next station and creating new rails to put them in the empty places. This Unity Project works in the Mixed Reality environment from UPF Barcelona.
 
 <div align="center">
-<img src="https://github.com/oscardelgado02/oscardelgado02/blob/main/images/Signal-Detection-and-Classification-DL-Model-Preview.png" align="center" style="width: 80%" />
+<img src="https://github.com/oscardelgado02/oscardelgado02/blob/main/images/Build-a-rail-Preview.png" align="center" style="width: 80%" />
 </div>
 <br>
 
