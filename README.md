@@ -17,3 +17,15 @@ Build a rail is a full body interaction collaborative videogame which its main o
 - Iron Rod (to make the rails): https://assetstore.unity.com/packages/3d/props/industrial/iron-rod-649
 - Shelter (the train station): https://assetstore.unity.com/packages/3d/environments/shelter-house-195039
 - WorldMaterials (ground, metallic and wood materials): https://assetstore.unity.com/packages/2d/textures-materials/world-materials-free-150182
+
+## License
+
+Shield: [![CC BY-NC-ND 4.0][cc-by-nc-nd-shield]][cc-by-nc-nd]
+
+<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/oscardelgado02/Build-a-rail">Build a rail</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://github.com/oscardelgado02">Óscar Delgado Rueda</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International</a></p>
+
+[![CC BY-NC-ND 4.0][cc-by-nc-nd-image]][cc-by-nc-nd]
+
+[cc-by-nc-nd]: http://creativecommons.org/licenses/by-nc-nd/4.0/
+[cc-by-nc-nd-image]: https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png
+[cc-by-nc-nd-shield]: https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg
